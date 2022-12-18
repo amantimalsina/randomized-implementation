@@ -1,4 +1,4 @@
-# randomized-algorithms-implementation
+# Implementation of some of my favorite randomized algorithms
 
 This repository concerns some of my favorite randomized algorithms. 
 The primary reason for my implementation of these particular algorithms is their simplicity. 
