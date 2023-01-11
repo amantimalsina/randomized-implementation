@@ -5,4 +5,4 @@ This repository concerns the implementation of my favorite randomized algorithm.
 The notebook itself contains both the context behind Fiedler's algorithm and its implementation with concrete examples in Python.
 
 ### References
-Quanrud, Kent. "CS 588 Lecture Notes". Fundamental Algorithms (2022).
+Quanrud, Kent. "CS 588 Lecture Notes." Fundamental Algorithms (2022).
